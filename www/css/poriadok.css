@@ -1,0 +1,49 @@
+.poriadokmso{
+    padding-left: 3em;
+    padding-right: 3em;
+    border-left: 1px solid rgb(99, 99, 99);
+}
+
+.poriadokmso h2{
+    text-align: center;
+}
+
+.poriadokmso p{
+    line-height: 1.2em;
+}
+
+.poriadokmso h4{
+    text-align: center;
+    color: rgb(236, 143, 35);
+}
+
+i{
+    font-weight: bold;
+}
+
+table{
+    border:1px solid rgb(187, 187, 187);
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border:1px solid rgb(187, 187, 187);
+    padding: 0.5em;
+    
+  }
+
+  .poriadokmso ol{
+      font-size: 90%;
+  }
+
+  .reviry .revir{
+      font-weight: bold;
+      color: rgb(98, 194, 34);
+  }
+
+  .poriadokmso .reviry i{
+    font-size: 80%;
+    font-weight: bold;
+    line-height: 0em;
+}
